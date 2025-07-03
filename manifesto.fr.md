@@ -100,7 +100,7 @@ CivicPress est un outil au service de la démocratie. Il vise l’inclusion, pas
 CivicPress est un projet libre. Il est construit en public, documenté en Markdown, versionné sur GitHub.
 
 Pour aller plus loin :
-– L’[annexe des échecs technologiques](appendix-failures.fr.md)
+– L’[annexe des échecs technologiques](https://github.com/CivicPress/manifesto/blob/master/appendix-failures.fr.md)
 – La feuille de route CivicPress
 – Et un [formulaire pour contribuer](https://tally.so/r/w4YKxo)
 
